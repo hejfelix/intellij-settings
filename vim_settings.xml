@@ -1,0 +1,882 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/lego/ratpandra/src/main/groovy/model/accessors/UserAccessor.groovy" timestamp="1449219000824">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/test/groovy/com/lego/breakfast/validation/OrderValidatorUnitSpec.groovy" timestamp="1450273646220">
+        <mark key="[" line="81" column="5" />
+        <mark key="]" line="77" column="5" />
+        <mark key="." line="39" column="4" />
+        <mark key="^" line="39" column="3" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user/src/main/scala/validators/Password.scala" timestamp="1448361826562">
+        <mark key="[" line="64" column="8" />
+        <mark key="]" line="64" column="8" />
+        <mark key="." line="64" column="8" />
+        <mark key="^" line="64" column="16" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/main/groovy/com/lego/breakfast/utilities/Util.groovy" timestamp="1449824355459">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="8" />
+        <mark key="." line="18" column="8" />
+        <mark key="^" line="18" column="109" />
+      </file>
+      <file name="$USER_HOME$/code/eplay/build.sbt" timestamp="1453813872066">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user-cassandra/src/main/groovy/com/lego/education/id/repositories/UserRepository.groovy" timestamp="1450445327014">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/main/groovy/com/lego/breakfast/validation/OrderValidatorUnitSpec.groovy" timestamp="1449757413548">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/fast-track-akka-scala/src/main/scala/com/typesafe/training/coffeehouse/Barista.scala" timestamp="1453467470144">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="29" column="41" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/ratpack/Ratpack.groovy" timestamp="1449841190769">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+        <mark key="^" line="21" column="14" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user/src/main/scala/validators/User.scala" timestamp="1448360926638">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="32" column="7" />
+        <mark key="." line="32" column="7" />
+      </file>
+      <file name="$USER_HOME$/.gitignore_global" timestamp="1448529530063">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/scalatrain/build.sbt" timestamp="1452517713673">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/main/groovy/CassandraModule.groovy" timestamp="1449741053509">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="3" column="65" />
+      </file>
+      <file name="$USER_HOME$/lego/scalatrain/src/main/scala/Test.sc" timestamp="1452519647899">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1448271393667">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_oauth/src/main/scala/repositories/implementations/AuthorizationCodesMongo.scala" timestamp="1453709308118">
+        <mark key="[" line="37" column="28" />
+        <mark key="]" line="37" column="28" />
+        <mark key="." line="37" column="28" />
+        <mark key="^" line="37" column="33" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_password-reset/.gitignore" timestamp="1453724121730">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/ratpandra/src/main/groovy/model/UserRepository.groovy" timestamp="1449218358261">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="16" column="24" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/main/groovy/com/lego/breakfast/handlers/OrderHandler.groovy" timestamp="1449843742213">
+        <mark key="[" line="34" column="65" />
+        <mark key="]" line="35" column="54" />
+        <mark key="^" line="35" column="54" />
+        <mark key="." line="35" column="54" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/main/groovy/com/lego/breakfast/modules/CassandraModule.groovy" timestamp="1449841257120">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/grails-cassandra/grails-app/conf/logback.groovy" timestamp="1448544049142">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+        <mark key="^" line="10" column="9" />
+      </file>
+      <file name="$USER_HOME$/lego/meet-n-greet/app/controllers/MagicWordController.scala" timestamp="1453803909910">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/meet-n-greet/project/plugins.sbt" timestamp="1453806051553">
+        <mark key="[" line="22" column="57" />
+        <mark key="]" line="22" column="58" />
+        <mark key="^" line="22" column="56" />
+        <mark key="." line="22" column="58" />
+      </file>
+      <file name="$USER_HOME$/lego/cascatter/src/main/scala/models/WithId.scala" timestamp="1447534996215">
+        <mark key="[" line="3" column="40" />
+        <mark key="]" line="6" column="67" />
+        <mark key="^" line="6" column="67" />
+        <mark key="." line="6" column="67" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/test/groovy/com/lego/breakfast/OrderValidatorUnitSpec.groovy" timestamp="1449757391103">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/test/groovy/com/lego/breakfast/services/UserServiceSpec.groovy" timestamp="1450274450126">
+        <mark key="[" line="11" column="60" />
+      </file>
+      <file name="$USER_HOME$/code/eplay/app/modules/AppModule.scala" timestamp="1453817796373">
+        <mark key="[" line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_password-reset/src/main/scala/services/ResetTokensHttp.scala" timestamp="1453726371922">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="3" column="46" />
+        <mark key="." line="3" column="46" />
+        <mark key="^" line="3" column="46" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/test/groovy/com/lego/breakfast/utilities/UtilTest.groovy" timestamp="1449822731454">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="7" column="14" />
+      </file>
+      <file name="$USER_HOME$/lego/ratpandra/src/groovy/model/repository/User.groovy" timestamp="1448618435609">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="1" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/cascatter/src/main/scala/Boot.scala" timestamp="1448013960531">
+        <mark key="[" line="23" column="38" />
+        <mark key="]" line="23" column="40" />
+        <mark key="." line="23" column="40" />
+        <mark key="^" line="23" column="40" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/main/groovy/com/lego/breakfast/ProductService.groovy" timestamp="1449822488090">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/main/groovy/com/lego/breakfast/model/Order.groovy" timestamp="1449826610500">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="21" column="12" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/ratpandra/src/main/groovy/model/User.groovy" timestamp="1449218565754">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/meet-n-greet/app/models/Connection.scala" timestamp="1453217629719">
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="26" column="28" />
+        <mark key="^" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user/src/main/scala/validators/UserRequests.scala" timestamp="1448361160443">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="16" />
+        <mark key="^" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_password-reset/build.gradle" timestamp="1453881804746">
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="31" />
+        <mark key="^" line="17" column="29" />
+        <mark key="." line="17" column="31" />
+      </file>
+      <file name="$USER_HOME$/lego/ratpandra/readme.md" timestamp="1448549802732">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/fast-track-akka-scala/src/main/scala/com/typesafe/training/coffeehouse/Waiter.scala" timestamp="1453711536723">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="32" column="41" />
+        <mark key="^" line="32" column="41" />
+        <mark key="." line="32" column="41" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/ratpack/application.yaml" timestamp="1449840066536">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/test/groovy/com/lego/breakfast/handlers/OrdersHandlerSpec.groovy" timestamp="1449827499209">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="65" column="51" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user/src/test/scala/EndToEndSpec.scala" timestamp="1448021385116">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="19" column="31" />
+        <mark key="^" line="19" column="31" />
+        <mark key="." line="19" column="31" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user/src/test/scala/UserSpec.scala" timestamp="1448026823387">
+        <mark key="[" line="22" column="92" />
+        <mark key="]" line="22" column="100" />
+        <mark key="." line="22" column="100" />
+        <mark key="^" line="22" column="100" />
+      </file>
+      <file name="$USER_HOME$/lego/ratpandra/src/groovy/UserRepository.groovy" timestamp="1448617916300">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user/src/main/resources/application.conf" timestamp="1448285771789">
+        <mark key="[" line="42" column="25" />
+        <mark key="]" line="42" column="26" />
+        <mark key="." line="42" column="26" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_oauth/src/test/scala/AccessTokensMongoSpec.scala" timestamp="1453709635328">
+        <mark key="[" line="316" column="0" />
+        <mark key="]" line="316" column="0" />
+        <mark key="^" line="67" column="45" />
+        <mark key="." line="316" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/create.cql" timestamp="1449838380236">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+        <mark key="^" line="1" column="44" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/main/groovy/com/lego/breakfast/Order.groovy" timestamp="1449751465594">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/test/groovy/com/lego/breakfast/utilities/UtilSpec.groovy" timestamp="1449824108552">
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="13" />
+        <mark key="^" line="30" column="13" />
+        <mark key="." line="30" column="13" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_oauth/src/main/scala/repositories/implementations/ClientsMongo.scala" timestamp="1453711260465">
+        <mark key="[" line="72" column="36" />
+        <mark key="]" line="72" column="37" />
+        <mark key="." line="72" column="37" />
+        <mark key="^" line="44" column="25" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user/src/main/scala/Boot.scala" timestamp="1448288553527">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="25" column="39" />
+        <mark key="^" line="61" column="30" />
+        <mark key="." line="61" column="30" />
+      </file>
+      <file name="$USER_HOME$/lego/scalatrain/src/test/scala/Train.scala" timestamp="1452502498359">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/test/groovy/OrderValidationSpec.groovy" timestamp="1449742027703">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/lego/scalatrain/src/main/scala/Train.scala" timestamp="1452504039008">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_oauth/src/main/scala/repositories/AccessTokens.scala" timestamp="1453708567629">
+        <mark key="[" line="15" column="41" />
+        <mark key="]" line="15" column="42" />
+        <mark key="." line="15" column="42" />
+        <mark key="^" line="15" column="42" />
+      </file>
+      <file name="$USER_HOME$/code/fast-track-akka-scala/src/main/scala/com/typesafe/training/coffeehouse/CoffeeHouse.scala" timestamp="1453469464601">
+        <mark key="[" line="31" column="79" />
+        <mark key="]" line="31" column="79" />
+        <mark key="." line="31" column="79" />
+      </file>
+      <file name="$USER_HOME$/code/fast-track-akka-scala/src/main/scala/com/typesafe/training/coffeehouse/Guest.scala" timestamp="1453467775915">
+        <mark key="[" line="29" column="29" />
+        <mark key="]" line="29" column="29" />
+        <mark key="." line="29" column="29" />
+      </file>
+      <file name="$USER_HOME$/lego/ratpandra/src/main/groovy/entity/user/UserEntity.groovy" timestamp="1448630342419">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+      </file>
+      <file name="$USER_HOME$/lego/ratpandra/src/main/groovy/util/Util.groovy" timestamp="1449218756253">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+        <mark key="^" line="4" column="35" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user-cassandra/src/main/groovy/com/lego/education/id/handlers/UsersHandler.groovy" timestamp="1450433437323">
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="16" column="56" />
+        <mark key="." line="16" column="56" />
+        <mark key="^" line="16" column="56" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user-cassandra/src/main/groovy/com/lego/education/id/services/UserService.groovy" timestamp="1450445061458">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="39" />
+        <mark key="^" line="1" column="39" />
+        <mark key="." line="1" column="39" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user-cassandra/src/main/groovy/com/lego/education/id/models/UsersHandler.groovy" timestamp="1450430759312">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user-cassandra/src/main/groovy/com/lego/education/id/handlers/LoginHandler.groovy" timestamp="1450433207237">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="49" />
+        <mark key="^" line="6" column="49" />
+        <mark key="." line="6" column="49" />
+      </file>
+      <file name="$USER_HOME$/lego/meet-n-greet/app/controllers/PushMessageController.scala" timestamp="1453810101098">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user-cassandra/src/main/groovy/com/lego/education/id/modules/UserModule.groovy" timestamp="1450445051598">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/eplay/conf/routes" timestamp="1453814484160">
+        <mark key="[" line="4" column="67" />
+      </file>
+      <file name="$USER_HOME$/code/fast-track-akka-scala/src/main/resources/application.conf" timestamp="1453467856982">
+        <mark key="[" line="19" column="40" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/main/groovy/com/lego/breakfast/validation/OrderValidator.groovy" timestamp="1450273412772">
+        <mark key="[" line="70" column="63" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="25" column="20" />
+      </file>
+      <file name="$USER_HOME$/lego/cascatter/src/main/scala/models/User.scala" timestamp="1448025773364">
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="27" column="26" />
+        <mark key="^" line="13" column="15" />
+        <mark key="." line="27" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/eplay/app/base/AppLifecycle.scala" timestamp="1453818067595">
+        <mark key="[" line="6" column="49" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_oauth/src/main/scala/services/ClientsHttp.scala" timestamp="1453708492757">
+        <mark key="[" line="19" column="48" />
+        <mark key="]" line="19" column="48" />
+        <mark key="." line="19" column="48" />
+      </file>
+      <file name="$USER_HOME$/code/eplay/app/base/ErrorHandler.scala" timestamp="1453818284262">
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="18" column="29" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_password-reset/src/main/scala/repositories/implementations/ResetTokens.scala" timestamp="1453725723896">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_password-reset/src/main/scala/repositories/ResetTokens.scala" timestamp="1453886844208">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="28" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/eplay/conf/application.conf" timestamp="1453818423252">
+        <mark key="[" line="19" column="39" />
+      </file>
+      <file name="$USER_HOME$/lego/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala" timestamp="1452609827725">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="16" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/test/groovy/com/lego/breakfast/services/ProductServiceTest.groovy" timestamp="1449822784189">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/main/groovy/com/lego/breakfast/OrderValidator.groovy" timestamp="1449748427633">
+        <mark key="[" line="27" column="70" />
+        <mark key="]" line="30" column="17" />
+        <mark key="." line="30" column="17" />
+        <mark key="^" line="30" column="17" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/main/groovy/com/lego/breakfast/CassandraModule.groovy" timestamp="1449751487953">
+        <mark key="[" line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/lego/scalatrain/src/main/scala/Time.scala" timestamp="1452508178706">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user/src/main/scala/validators/Email.scala" timestamp="1448361622792">
+        <mark key="[" line="10" column="12" />
+      </file>
+      <file name="$USER_HOME$/lego/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Station.scala" timestamp="1452517410519">
+        <mark key="[" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/lego/meet-n-greet/build.sbt" timestamp="1453812299629">
+        <mark key="[" line="29" column="29" />
+        <mark key="]" line="29" column="22" />
+        <mark key="." line="29" column="22" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/build.gradle" timestamp="1449826215510">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="8" column="58" />
+        <mark key="^" line="8" column="58" />
+        <mark key="." line="8" column="58" />
+      </file>
+      <file name="$USER_HOME$/code/fast-track-akka-scala/src/main/scala/com/typesafe/training/coffeehouse/CoffeeHouseApp.scala" timestamp="1453372584703">
+        <mark key="[" line="76" column="50" />
+        <mark key="]" line="54" column="84" />
+        <mark key="." line="54" column="84" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/test/groovy/com/lego/breakfast/services/ProductServiceSpec.groovy" timestamp="1450274232507">
+        <mark key="[" line="13" column="21" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_password-reset/src/main/scala/models/ResetToken.scala" timestamp="1453881925496">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/test/groovy/com/lego/breakfast/handlers/OrdersHandlerUnitTest.groovy" timestamp="1449760698830">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+      </file>
+      <file name="$USER_HOME$/lego/meet-n-greet/app/repositories/Connections.scala" timestamp="1453802887948">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/ratpandra/build.gradle" timestamp="1449217907806">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/main/groovy/com/lego/breakfast/services/ProductService.groovy" timestamp="1450269924243">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/eplay/app/modules/AppLifecycle.scala" timestamp="1453817857113">
+        <mark key="[" line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_oauth/src/main/scala/services/AuthorizationCodesHttp.scala" timestamp="1453457994595">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/meet-n-greet/app/repositories/ConnectionsLike.scala" timestamp="1453795305480">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="34" column="5" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/ratpandra/src/main/groovy/model/entity/user/UserByEmailEntity.groovy" timestamp="1449218113733">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="10" column="52" />
+        <mark key="^" line="10" column="52" />
+        <mark key="." line="10" column="52" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user-cassandra/src/main/groovy/User.groovy" timestamp="1450429821876">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="35" />
+        <mark key="^" line="0" column="35" />
+        <mark key="." line="0" column="35" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_oauth/src/main/scala/repositories/implementations/AccessTokensMongo.scala" timestamp="1453709383702">
+        <mark key="[" line="99" column="85" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="94" column="102" />
+        <mark key="." line="100" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_oauth/src/test/scala/AccessTokensHttpSpec.scala" timestamp="1453458922429">
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="224" column="0" />
+        <mark key="." line="224" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/cascatter/build.gradle" timestamp="1448013988668">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="30" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user-cassandra/src/main/groovy/com/lego/education/id/modules/CassandraModule.groovy" timestamp="1450442063931">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_oauth/src/test/scala/AuthorizationCodesMongoSpec.scala" timestamp="1453709763711">
+        <mark key="[" line="44" column="44" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/ratpandra/src/main/groovy/model/entity/user/UserEntity.groovy" timestamp="1449219255144">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="24" column="10" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user-cassandra/src/ratpack/Ratpack.groovy" timestamp="1450446760594">
+        <mark key="[" line="13" column="69" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user-cassandra/src/main/groovy/com/lego/education/id/models/User.groovy" timestamp="1450430493782">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+      </file>
+      <file name="$USER_HOME$/lego/grails-cassandra/grails-app/assets/javascripts/application.js" timestamp="1448530176441">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+      </file>
+      <file name="$USER_HOME$/lego/ratpandra/src/main/groovy/model/repository/UserRepository.groovy" timestamp="1448627717837">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+        <mark key="^" line="4" column="56" />
+      </file>
+      <file name="$USER_HOME$/code/eplay/app/views/login.scala.html" timestamp="1453818697269">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/meet-n-greet/public/js/main.js" timestamp="1453810619237">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user/src/main/scala/validators/Validator.scala" timestamp="1448361598559">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="60" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user/src/main/scala/repositories/Users.scala" timestamp="1448360126989">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="42" column="59" />
+        <mark key="." line="42" column="59" />
+        <mark key="^" line="42" column="59" />
+      </file>
+      <file name="$USER_HOME$/lego/scalatrain/src/main/scala/com/typesafe/training/scalatrain/TrainInfo.scala" timestamp="1452520302660">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="2" />
+        <mark key="." line="3" column="2" />
+        <mark key="^" line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user-cassandra/src/main/groovy/com/lego/education/id/configuration/CassandraConfig.groovy" timestamp="1450445042232">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_oauth/src/main/scala/repositories/Clients.scala" timestamp="1453710269796">
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="37" />
+        <mark key="." line="24" column="37" />
+      </file>
+      <file name="$USER_HOME$/lego/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala" timestamp="1452676443798">
+        <mark key="[" line="23" column="46" />
+      </file>
+      <file name="/Dummy.groovy" timestamp="1450433332832">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/meet-n-greet/test/ConnectionsSpec.scala" timestamp="1453217923130">
+        <mark key="[" line="47" column="94" />
+        <mark key="]" line="47" column="93" />
+        <mark key="^" line="47" column="93" />
+        <mark key="." line="47" column="93" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/main/groovy/com/lego/breakfast/Util.groovy" timestamp="1449751640222">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_password-reset/README.md" timestamp="1453731735045">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/ratpandra/src/main/groovy/modules/AchillesModule.groovy" timestamp="1449217555202">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/meet-n-greet/app/controllers/ClutchPower.scala" timestamp="1453802949868">
+        <mark key="[" line="214" column="68" />
+        <mark key="]" line="214" column="77" />
+        <mark key="." line="214" column="77" />
+        <mark key="^" line="214" column="77" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_oauth/src/main/scala/services/AccessTokensHttp.scala" timestamp="1453458437796">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user-cassandra/src/main/groovy/com/lego/education/id/modules/CassandraConfig.groovy" timestamp="1450445035044">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="0" column="42" />
+        <mark key="^" line="0" column="42" />
+        <mark key="." line="0" column="42" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1450442733609">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_oauth/src/test/scala/AuthorizationCodesHttpSpec.scala" timestamp="1453458976469">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="^" line="58" column="77" />
+        <mark key="." line="102" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/test/groovy/HandlerSpec.groovy" timestamp="1449757711959">
+        <mark key="[" line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/lego/ratpandra/.gitignore" timestamp="1448549338737">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_password-reset/src/main/resources/application.conf" timestamp="1453725102134">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/lego/scalatrain/src/test/scala/com/typesafe/training/scalatrain/TimeSpec.scala" timestamp="1452609698556">
+        <mark key="[" line="20" column="75" />
+        <mark key="]" line="21" column="70" />
+        <mark key="." line="21" column="70" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user/src/main/scala/services/UsersHttp.scala" timestamp="1448360407935">
+        <mark key="[" line="128" column="23" />
+        <mark key="]" line="128" column="17" />
+        <mark key="." line="128" column="17" />
+        <mark key="^" line="128" column="17" />
+      </file>
+      <file name="$USER_HOME$/lego/ratpandra/src/main/groovy/model/repository/User.groovy" timestamp="1448619480609">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/lego/breakfast/order/src/main/groovy/OrderValidator.groovy" timestamp="1449741892402">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="5" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="4" />
+      </file>
+      <file name="$USER_HOME$/lego/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala" timestamp="1452608460042">
+        <mark key="[" line="14" column="56" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="40" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/scalatrain/src/test/scala/com/typesafe/training/scalatrain/TrainSpec.scala" timestamp="1452675393454">
+        <mark key="[" line="34" column="5" />
+      </file>
+      <file name="$USER_HOME$/lego/grails-cassandra/grails-app/conf/application.yml" timestamp="1448544272571">
+        <mark key="[" line="16" column="7" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_user-cassandra/src/main/groovy/com/lego/education/id/models/UserState.groovy" timestamp="1450429878856">
+        <mark key="[" line="3" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/eplay/app/controllers/Application.scala" timestamp="1453820322249">
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="15" column="23" />
+        <mark key="." line="15" column="23" />
+        <mark key="^" line="15" column="23" />
+      </file>
+      <file name="$USER_HOME$/lego/cascatter/src/main/scala/WithId.scala" timestamp="1447535032679">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/lego/id-management_atomic_oauth/src/test/scala/ClientsHttpSpec.scala" timestamp="1453459044989">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="^" line="15" column="93" />
+        <mark key="." line="131" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1453817034465">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/lego/meet-n-greet/test/SerializationSpec.scala" timestamp="1453217800672">
+        <mark key="[" line="36" column="56" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="57" column="0" filename="$USER_HOME$/lego/cascatter/src/main/scala/models/CascatterDatabase.scala" />
+      <jump line="44" column="33" filename="$USER_HOME$/lego/cascatter/src/main/scala/models/CascatterDatabase.scala" />
+      <jump line="26" column="35" filename="$USER_HOME$/lego/id-management_atomic_user/src/main/scala/models/User.scala" />
+      <jump line="52" column="30" filename="$USER_HOME$/lego/id-management_atomic_user/src/main/scala/models/User.scala" />
+      <jump line="175" column="71" filename="$USER_HOME$/lego/id-management_atomic_user/src/test/scala/UserServiceMongoSpec.scala" />
+      <jump line="69" column="41" filename="$USER_HOME$/lego/id-management_atomic_user/src/test/scala/UserServiceMongoSpec.scala" />
+      <jump line="66" column="6" filename="$USER_HOME$/lego/id-management_atomic_user/src/test/scala/UserServiceMongoSpec.scala" />
+      <jump line="230" column="13" filename="$USER_HOME$/lego/id-management_atomic_user/src/test/scala/UserServiceMongoSpec.scala" />
+      <jump line="67" column="0" filename="$USER_HOME$/lego/id-management_atomic_user/src/test/scala/UserServiceMongoSpec.scala" />
+      <jump line="124" column="9" filename="$USER_HOME$/lego/id-management_atomic_user/build.gradle" />
+      <jump line="312" column="35" filename="$USER_HOME$/lego/id-management_atomic_user/src/test/scala/UserServiceMongoSpec.scala" />
+      <jump line="84" column="95" filename="$USER_HOME$/lego/id-management_atomic_user/src/test/scala/UserHttpServiceSpec.scala" />
+      <jump line="252" column="76" filename="$USER_HOME$/lego/id-management_atomic_user/src/test/scala/UserServiceMongoSpec.scala" />
+      <jump line="124" column="23" filename="$USER_HOME$/lego/id-management_atomic_user/src/main/scala/repositories/implementations/users/Cassandra.scala" />
+      <jump line="74" column="90" filename="$USER_HOME$/lego/id-management_atomic_user/src/main/scala/repositories/implementations/users/Cassandra.scala" />
+      <jump line="129" column="68" filename="$USER_HOME$/lego/id-management_atomic_user/src/main/scala/repositories/implementations/users/Cassandra.scala" />
+      <jump line="22" column="19" filename="$USER_HOME$/lego/grails-cassandra/build.gradle" />
+      <jump line="17" column="30" filename="$USER_HOME$/lego/grails-cassandra/build.gradle" />
+      <jump line="59" column="74" filename="$USER_HOME$/lego/grails-cassandra/build.gradle" />
+      <jump line="15" column="22" filename="$USER_HOME$/lego/ratpandra/src/ratpack/ratpack.groovy" />
+      <jump line="48" column="0" filename="$USER_HOME$/lego/breakfast/order/README.md" />
+      <jump line="26" column="7" filename="$USER_HOME$/lego/breakfast/order/src/main/groovy/Order.groovy" />
+      <jump line="25" column="8" filename="$USER_HOME$/lego/breakfast/order/src/main/groovy/Order.groovy" />
+      <jump line="18" column="25" filename="$USER_HOME$/lego/breakfast/order/src/main/groovy/com/lego/breakfast/OrdersHandler.groovy" />
+      <jump line="13" column="36" filename="$USER_HOME$/lego/breakfast/order/src/test/groovy/com/lego/breakfast/handlers/OrdersHandlerUnitSpec.groovy" />
+      <jump line="37" column="58" filename="$USER_HOME$/lego/breakfast/order/src/main/groovy/com/lego/breakfast/handlers/OrdersHandler.groovy" />
+      <jump line="58" column="30" filename="$USER_HOME$/lego/breakfast/order/src/test/groovy/com/lego/breakfast/handlers/OrdersHandlerUnitSpec.groovy" />
+      <jump line="218" column="54" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Predef.scala" />
+      <jump line="18" column="12" filename="$USER_HOME$/lego/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala" />
+      <jump line="2" column="17" filename="$USER_HOME$/code/fast-track-akka-scala/src/main/scala/com/typesafe/training/coffeehouse/CoffeeHouse.scala" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/fast-track-akka-scala/src/main/scala/com/typesafe/training/coffeehouse/Guest.scala" />
+      <jump line="11" column="0" filename="$USER_HOME$/code/fast-track-akka-scala/src/main/scala/com/typesafe/training/coffeehouse/Guest.scala" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/fast-track-akka-scala/src/main/scala/com/typesafe/training/coffeehouse/Guest.scala" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/fast-track-akka-scala/src/main/scala/com/typesafe/training/coffeehouse/Guest.scala" />
+      <jump line="30" column="0" filename="$USER_HOME$/code/fast-track-akka-scala/src/main/scala/com/typesafe/training/coffeehouse/Guest.scala" />
+      <jump line="29" column="1" filename="$USER_HOME$/code/fast-track-akka-scala/src/main/scala/com/typesafe/training/coffeehouse/Guest.scala" />
+      <jump line="8" column="0" filename="$USER_HOME$/lego/id-management_atomic_password-reset/build.gradle" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>request.body.asFormUrlEncoded</text>
+      </register>
+      <register name="/" type="4">
+        <text>\t</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJyZXR1cm4gU29tZSB3cmFwcGluZyBhIHByb3Blcmx5IGluaXRpYWxpemVkIFRpbWUgZm9yIGEgdmFsaWQgSnNvbk9qZWN0IiBpbiB7CiAgICAgIChUaW1lIGZyb21Kc29uIEpzb24ub2JqKCJob3VycyIgLT4gOSwgIm1pbnV0ZXMiIC0+IDMwKSkgc2hvdWxkRXF1YWwgU29tZShUaW1lKDksIDMwKSkKICAgIH0K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGFra2EuaHR0cC5zY2FsYWRzbC5tb2RlbC5EYXRlVGltZQo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>request.body.asFormUrlEncoded</text>
+      </register>
+      <register name="4" type="4">
+        <text />
+      </register>
+      <register name="5" type="4">
+        <text>request.body.asFormUrlEncoded.get(&quot;username&quot;)</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0geWllbGQgdXNlcm5hbWUK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhbCB1c2VybmFtZSA9IGZvciB7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLm12Yy57QWN0aW9uLCBDb250cm9sbGVyfQo=</text>
+      </register>
+      <register name="9" type="4">
+        <text>&quot;List from 1 to 100&quot;</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxncm9vdnlNYXJrdXBUZW1wbGF0ZVw+</last-search>
+      <last-offset />
+      <last-pattern>\t</last-pattern>
+      <last-replace encoding="base64">ICAgIA==</last-replace>
+      <last-substitute>\t</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>BSONString(john.id)</entry>
+        <entry>password.get</entry>
+        <entry>apply plugin:</entry>
+        <entry encoding="base64">XDxncm9vdnlNYXJrdXBUZW1wbGF0ZVw+</entry>
+        <entry>order</entry>
+        <entry>this.</entry>
+        <entry>\t</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>%s/BSONString(john.id)/johnId/g</entry>
+        <entry>%s/password.get/password/g</entry>
+        <entry>bd</entry>
+        <entry>vs</entry>
+        <entry>sp</entry>
+        <entry>tabnew</entry>
+        <entry>shell</entry>
+        <entry>help 42</entry>
+        <entry>W</entry>
+        <entry encoding="base64">JzwsJz5zL2FwcGx5IHBsdWdpbjovaWQvZw==</entry>
+        <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL29yZGVyL3RoaXMvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3RoaXMuLy8=</entry>
+        <entry>q</entry>
+        <entry>%s/\t/    /g</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
