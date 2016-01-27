@@ -1,0 +1,7 @@
+<application>
+  <component name="ScalaSettings">
+    <option name="COMPILE_SERVER_ID" value="4bcce41e-bf44-43a8-a609-790a3f0bcf6e" />
+    <option name="COMPILE_SERVER_SDK" value="1.8" />
+    <option name="COMPILE_SERVER_SHUTDOWN_IDLE" value="false" />
+  </component>
+</application>
