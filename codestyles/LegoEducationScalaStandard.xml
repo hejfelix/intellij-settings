@@ -1,7 +1,6 @@
 <code_scheme name="Lego Education Scala Standard">
   <ScalaCodeStyleSettings>
     <option name="WRAP_BEFORE_WITH_KEYWORD" value="true" />
-    <option name="ALIGN_IN_COLUMNS_CASE_BRANCH" value="true" />
     <option name="ALIGN_COMPOSITE_PATTERN" value="false" />
     <option name="SPACE_AFTER_TYPE_COLON" value="false" />
   </ScalaCodeStyleSettings>
